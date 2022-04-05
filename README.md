@@ -10,5 +10,5 @@
     - <a href='https://leetcode.com/problems/maximum-product-subarray/'>Maximum Product Subarray</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/maximumProductSubarray.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/'>Find Minimum in Rotated Sorted Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/153.find-minimum-in-rotated-sorted-array.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/search-in-rotated-sorted-array/'>Search in Rotated Sorted Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/33.search-in-rotated-sorted-array.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/3sum/'>3 Sum</a>
+    - <a href='https://leetcode.com/problems/3sum/'>3 Sum</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/15.3-sum.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/container-with-most-water/'>Container With Most Water</a>
