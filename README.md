@@ -13,7 +13,7 @@
     - <a href='https://leetcode.com/problems/3sum/'>3 Sum</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/15.3-sum.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/container-with-most-water/'>Container With Most Water</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/11.container-with-most-water.py'>Solution</a> ✔
   - Binary:
-    - <a href='https://leetcode.com/problems/sum-of-two-integers/'>Sum of Two Integers</a>
+    - <a href='https://leetcode.com/problems/sum-of-two-integers/'>Sum of Two Integers</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Binary/371.sum-of-two-integers.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/number-of-1-bits/'>Number of 1 Bits</a>
     - <a href='https://leetcode.com/problems/counting-bits/'>Counting Bits</a>
     - <a href='https://leetcode.com/problems/missing-number/'>Missing Number</a>
