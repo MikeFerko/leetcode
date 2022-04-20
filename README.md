@@ -19,7 +19,7 @@
     - <a href='https://leetcode.com/problems/missing-number/'>Missing Number</a>
     - <a href='https://leetcode.com/problems/reverse-bits/'>Reverse Bits</a>
   - Dynamic Programming:
-    - <a href='https://leetcode.com/problems/climbing-stairs/'>Climbing Stairs</a>
+    - <a href='https://leetcode.com/problems/climbing-stairs/'>Climbing Stairs</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Dynamic%20Programming/70.climbing-stairs.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/coin-change/'>Coin Change</a>
     - <a href='https://leetcode.com/problems/longest-increasing-subsequence/'>Longest Increasing Subsequence</a>
     - <a href='https://leetcode.com/problems/longest-common-subsequence/'>Longest Common Subsequence</a>
