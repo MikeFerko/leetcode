@@ -73,7 +73,7 @@
     - <a href='https://leetcode.com/problems/same-tree/'>Same Tree</a>
     - <a href='https://leetcode.com/problems/invert-binary-tree/'>Invert/Flip Binary Tree</a>
     - <a href='https://leetcode.com/problems/binary-tree-maximum-path-sum/'>Binary Tree Maximum Path Sum</a>
-    - <a href='https://leetcode.com/problems/binary-tree-level-order-traversal/'>Binary Tree Level Order Traversal</a>
+    - <a href='https://leetcode.com/problems/binary-tree-level-order-traversal/'>Binary Tree Level Order Traversal</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Tree/102.binary-tree-level-order-traversal.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/serialize-and-deserialize-binary-tree/'>Serialize and Deserialize Binary Tree</a>
     - <a href='https://leetcode.com/problems/subtree-of-another-tree/'>Subtree of Another Tree</a>
     - <a href='https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/'>Construct Binary Tree from Preorder and Inorder Traversal</a>
