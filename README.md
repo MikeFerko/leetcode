@@ -46,7 +46,7 @@
     - <a href='https://leetcode.com/problems/meeting-rooms/'>Meeting Rooms (Leetcode Premium)</a>
     - <a href='https://leetcode.com/problems/meeting-rooms-ii/'>Meeting Rooms II (Leetcode Premium)</a>
   - Linked List:
-    - <a href='https://leetcode.com/problems/reverse-linked-list/'>Reverse a Linked List</a>
+    - <a href='https://leetcode.com/problems/reverse-linked-list/'>Reverse a Linked List</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Linked%20List/206.reverse-linked-list.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/linked-list-cycle/'>Detect Cycle in a Linked List</a>
     - <a href='https://leetcode.com/problems/merge-two-sorted-lists/'>Merge Two Sorted Lists</a>
     - <a href='https://leetcode.com/problems/merge-k-sorted-lists/'>Merge K Sorted Lists</a>
