@@ -1,4 +1,13 @@
-import queue
+'''
+Depth-First Search (DFS)
+
+Time complexity: T(n) = O(|V| + |E|), where V is the number of vertices and E is the number of edges in the graph.
+Space Complexity: S(n) = O(|V|)
+
+|V| = magnitude i.e. number of Vertices/Nodes
+|E| = magnitude i.e. number of Edges/Relationships
+'''
+
 from collections import defaultdict
 # A default dictionary is a dictionary that 
 # automatically assigns defpault values to keys, 
@@ -12,7 +21,7 @@ class Graph:
         self.graph = defaultdict(list)
     
     # function to add an edge to a graph
-    def addEdge(self,u,v):
+    def addEdge(self, u:int, v:int):
         self.graph[u].append(v)
 
     # function to return a BFS of a source node from a graph
