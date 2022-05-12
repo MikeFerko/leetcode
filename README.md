@@ -52,6 +52,7 @@
     - <a href='https://leetcode.com/problems/merge-k-sorted-lists/'>Merge K Sorted Lists</a>
     - <a href='https://leetcode.com/problems/remove-nth-node-from-end-of-list/'>Remove Nth Node From End Of List</a>
     - <a href='https://leetcode.com/problems/reorder-list/'>Reorder List</a>
+    - <a href='https://leetcode.com/problems/delete-node-in-a-linked-list/'>Delete Node in a Linked List</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Linked%20List/237.delete-node-in-a-linked-list.py'>Solution</a> ✔
   - Matrix:
     - <a href='https://leetcode.com/problems/set-matrix-zeroes/'>Set Matrix Zeroes</a>
     - <a href='https://leetcode.com/problems/spiral-matrix/'>Spiral Matrix</a>
