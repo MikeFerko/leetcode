@@ -1,5 +1,5 @@
 '''
-Depth-First Search (DFS)
+Bredth-First Search (BFS)
 
 Time complexity: T(n) = O(|V| + |E|), where V is the number of vertices and E is the number of edges in the graph.
 Space Complexity: S(n) = O(|V|)
