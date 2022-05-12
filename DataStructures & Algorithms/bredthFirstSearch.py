@@ -1,7 +1,7 @@
 import queue
 from collections import defaultdict
 # A default dictionary is a dictionary that 
-# automatically assigns default values to keys, 
+# automatically assigns defpault values to keys, 
 # if queried keys are not present.
 
 class Graph:
