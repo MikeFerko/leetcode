@@ -22,7 +22,7 @@
     - <a href='https://leetcode.com/problems/climbing-stairs/'>Climbing Stairs</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Dynamic%20Programming/70.climbing-stairs.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/coin-change/'>Coin Change</a>
     - <a href='https://leetcode.com/problems/longest-increasing-subsequence/'>Longest Increasing Subsequence</a>
-    - <a href='https://leetcode.com/problems/longest-common-subsequence/'>Longest Common Subsequence</a>
+    - <a href='https://leetcode.com/problems/longest-common-subsequence/'>Longest Common Subsequence</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Dynamic%20Programming/1143.longest-common-subsequence.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/word-break/'>Word Break Problem</a>
     - <a href='https://leetcode.com/problems/combination-sum-iv/'>Combination Sum</a>
     - <a href='https://leetcode.com/problems/house-robber/'>House Robber</a>
