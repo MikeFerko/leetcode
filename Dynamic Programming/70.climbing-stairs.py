@@ -4,40 +4,36 @@
 # [70] Climbing Stairs
 #
 
-'''
-Can take one or two steps -> how many combinations of 1 or two steps can get us to the top?
-
-We can use a decision tree to see if we want to take one step or two steps
-i.e. every time we reach a leaf node in the decision tree the node value at that level will be
-the top step value. 
-
-We can use depth first search on the decision tree, but we can use dp to remember the number of solutions
-for parts of the decision tree that have already been solved on other branches that lead to a solution.
-
-This can be done using memoization/caching
-this will look like a reversed Fibonacci sequence 
-
-Time Complexity: T(n) = 
-Space Complexity: S(n) = O(1)
-'''
-
 # @lc code=start
 class Solution:
     def climbStairs(self, n: int) -> int:
-        # dp fibonacci sequence
-        fibOne = 1 # starts at Fibonacci[1]
-        fibTwo = 1 # starts at Fibonacci[2]
-        for i in range(0, n - 1):
-            temp = fibOne
-            fibOne = fibOne + fibTwo
-            fibTwo = temp
-        return fibOne
-            
-# def DP_Fibonacci(n: int):
-#     f = [0, 1]
-#     for i in range(2, n + 1):
-#         f.append(f[i-1] + f[i-2])
-#     return f[n]
+        '''
+        n : input number of stairs we can climb
+        one : the pointer variable to bottom up element in dp array starting at n - 1 finishing
+        @ the solution number of possible distinct ways to climb to the top.
+        two : the pointer variable to the previous element in dp array starting at n
+        and finishing at the number of possible distinct ways to climb to the top from the first step 
+        in the stair case.
+
+        Algorithm: Use fibonacci sequence to calculate all distinct possible ways to climb to the
+        top of our stair case from the bottom up dp approach and when the second element in the fib
+        sequence reaches the 0th floor we return that variable.
+
+        time T(n) = O(n) -> linear maxes out at taking 1 step at a time.
+        space S(n) = O(1) -> we used three variables that consistently get reevaluated.
+
+        S(n) = O(n) if we use a dp array and pointers to the fib numbers instead of just veriables
+        '''
+        
+        one, two = 1, 1
+
+        for _ in range(n - 1, 0, -1):
+            temp = one
+            one = one + two
+            two = temp
+        
+        return one
+
 
 # @lc code=end
 
