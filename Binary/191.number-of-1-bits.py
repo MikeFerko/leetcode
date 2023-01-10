@@ -21,6 +21,8 @@ binary integer input.
 
 Resulting in T(n) = O(1) & S(n) = O(1)
 
+board solution
+
 '''
 
 # @lc code=start
