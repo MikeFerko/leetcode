@@ -10,9 +10,9 @@ if nums[middle] >= nums[left]:
     search the right portion of the array
 else:
     search left portion of the array
-
-
 '''
+
+from typing import List
 
 # @lc code=start
 class Solution:
