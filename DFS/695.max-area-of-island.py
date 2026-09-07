@@ -9,6 +9,21 @@ from typing import List
 # @lc code=start
 class Solution:
     def maxAreaOfIsland(self, grid: List[List[int]]) -> int:
+        """
+        Given a binary grid where 1 represents land and 0 represents water,
+        return the area of the largest island (a group of 1's connected
+        4-directionally). Runs an iterative DFS (stack-based) from each
+        unvisited land cell, tracking the largest area found.
+
+        Args:
+            grid (List[List[int]]): binary grid of land (1) and water (0)
+
+        Returns:
+            int: area of the largest island, 0 if there is none
+
+        @complexity: Time: O(rows * cols)
+        @complexity: Space: O(rows * cols)
+        """
         global rowLength
         global colLength
         global visited

@@ -10,16 +10,22 @@ from typing import List
 # @lc code=start
 class Solution:
     def sortedSquares(self, nums: List[int]) -> List[int]:
-        '''
-        nums : input array
-        output : output array
-        l : left pointer
-        r : right pointer
-        j : output array pointer
+        """
+        Given an integer array nums sorted in non-decreasing order, return
+        an array of the squares of each number sorted in non-decreasing
+        order. Uses two pointers from each end, comparing squares and
+        filling the output array from the back since the largest square
+        must come from one of the two ends.
 
-        compare left and right squares until the left pointer 
-        is less than the right pointer
-        '''
+        Args:
+            nums (List[int]): sorted array of integers
+
+        Returns:
+            List[int]: sorted array of squared values
+
+        @complexity: Time: O(n)
+        @complexity: Space: O(n)
+        """
         n = len(nums)
         output = [0] * n
         l, r = 0, n - 1

@@ -4,6 +4,8 @@
 # [189] Rotate Array
 #
 
+from typing import List
+
 # @lc code=start
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:

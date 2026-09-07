@@ -18,8 +18,19 @@ LeetCode solution
 class Solution:
     def deleteNode(self, node):
         """
-        :type node: ListNode
-        :rtype: void Do not return anything, modify node in-place instead.
+        Given a node (not the tail) in a singly-linked list, delete it
+        in-place without access to the head. Since the node itself can't be
+        unlinked, its value and next pointer are overwritten with those of
+        the following node, effectively deleting the next node instead.
+
+        Args:
+            node (ListNode): the node to delete, guaranteed not the tail
+
+        Returns:
+            None: modifies the list in-place instead
+
+        @complexity: Time: O(1)
+        @complexity: Space: O(1)
         """
         # [4,5,1,9] -> [4,1,9]
         # Not really deleting the node, but reassigning the node to

@@ -3,20 +3,27 @@
 #
 # [153] Find Minimum in Rotated Sorted Array
 #
-'''
-use left pivot middle and right pointers
-
-if nums[middle] >= nums[left]:
-    search the right portion of the array
-else:
-    search left portion of the array
-'''
-
 from typing import List
 
 # @lc code=start
 class Solution:
     def findMin(self, nums: List[int]) -> int:
+        """
+        Given a rotated sorted array of unique integers with no duplicates,
+        find the minimum element. Use a binary search with left, middle, and
+        right pointers: if nums[middle] >= nums[left], the left half is sorted
+        so the minimum must be in the right portion; otherwise search the
+        left portion.
+
+        Args:
+            nums (List[int]): rotated sorted array of unique integers
+
+        Returns:
+            int: the minimum element in nums
+
+        @complexity: Time: O(logn)
+        @complexity: Space: O(1)
+        """
         result = nums[0]
         left, right = 0, len(nums) - 1
 

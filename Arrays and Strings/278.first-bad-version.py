@@ -10,17 +10,20 @@
 
 class Solution:
     def firstBadVersion(self, n: int) -> int:
-        '''
-        find the first bad version in an array of sorted versions
-        that run from 0 up to n
+        """
+        Given n versions [1, n] where all versions after a bad one are also
+        bad, find the first bad version using binary search on the
+        isBadVersion API. Constraints: 1 <= bad <= n <= 2**31 - 1.
 
-        bad : int : our target version we are searching for
-        l : int : low pointer
-        h : int : high pointer
-        mid : our middle pointer for binary search of our version
+        Args:
+            n (int): total number of versions
 
-        Constraints: 1 <= bad <= n <= 2**31 - 1
-        '''
+        Returns:
+            int: the first bad version
+
+        @complexity: Time: O(logn)
+        @complexity: Space: O(1)
+        """
         l, h = 1, n
         while l < h:
             mid = (l + h) // 2

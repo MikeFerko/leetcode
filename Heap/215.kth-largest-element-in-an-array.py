@@ -4,26 +4,6 @@
 # [215] Kth Largest Element in an Array
 #
 
-"""
-Example 1:
-    Input: nums = [3,2,1,5,6,4], k = 2
-    Output: 5
-
-Example 2:
-    Input: nums = [3,2,3,1,2,4,5,5,6], k = 4
-    Output: 4
-
-First, lets try using a heap
-Time Complexity: T(n) = O(nlogk)
-Space Complexity: S(n) = O(k)
-
-Store firest k-elements of nums in heap
-Iterate from index k up to end of nums array
-    If value nn is greater than weakest heap element
-        Replace the weakest element
-return weakest k-element after all elements are compared for heapreplacement.
-"""
-
 # @lc code=start
 import heapq
 from typing import List
@@ -31,7 +11,21 @@ from typing import List
 class Solution:
     def findKthLargest(self, nums: List[int], k: int) -> int:
         """
+        Given an integer array nums and an integer k, return the kth largest
+        element in the array. Store the first k elements in a min-heap, then
+        for each remaining element replace the heap's minimum whenever a
+        larger value is found. The heap's root is the kth largest element
+        once all elements have been considered.
 
+        Args:
+            nums (List[int]): array of integers
+            k (int): the rank (from largest) of the element to find
+
+        Returns:
+            int: the kth largest element in nums
+
+        @complexity: Time: O(nlogk)
+        @complexity: Space: O(k)
         """
         heap = nums[:k]
         heapq.heapify(heap)

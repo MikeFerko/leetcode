@@ -4,6 +4,8 @@
 # [344] Reverse String
 #
 
+from typing import List
+
 # @lc code=start
 class Solution:
     def reverseString(self, s: List[str]) -> None:

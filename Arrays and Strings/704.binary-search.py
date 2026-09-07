@@ -9,13 +9,20 @@ from typing import List
 # @lc code=start
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-        '''
-        nums : Array of integers
-        target : target value we are searching for
-        l :  low  index pointer in the array
-        h : high index pointer in the array
-        mid : middle pointer in the array 
-        '''
+        """
+        Given a sorted array of integers and a target value, return the
+        index of target using binary search, or -1 if it is not present.
+
+        Args:
+            nums (List[int]): sorted array of integers
+            target (int): value to search for
+
+        Returns:
+            int: index of target, or -1 if not found
+
+        @complexity: Time: O(logn)
+        @complexity: Space: O(1)
+        """
         l, h = 0, len(nums) - 1
 
         while l <= h:
