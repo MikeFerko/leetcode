@@ -58,13 +58,16 @@
     - <a href='https://leetcode.com/problems/spiral-matrix/'>Spiral Matrix</a>
     - <a href='https://leetcode.com/problems/rotate-image/'>Rotate Image</a>
     - <a href='https://leetcode.com/problems/word-search/'>Word Search</a>
+  - Stack:
+    - <a href='https://leetcode.com/problems/valid-parentheses/'>Valid Parentheses</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Stack/20.valid-parentheses.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/daily-temperatures/'>Daily Temperatures</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Stack/739.daily-temperatures.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/min-stack/'>Min Stack</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Stack/155.min-stack.py'>Solution</a> ✔
   - String:
     - <a href='https://leetcode.com/problems/longest-substring-without-repeating-characters/'>Longest Substring Without Repeating Characters</a>
     - <a href='https://leetcode.com/problems/longest-repeating-character-replacement/'>Longest Repeating Character Replacement</a>
     - <a href='https://leetcode.com/problems/minimum-window-substring/'>Minimum Window Substring</a>
     - <a href='https://leetcode.com/problems/valid-anagram/'>Valid Anagram</a>
     - <a href='https://leetcode.com/problems/group-anagrams/'>Group Anagrams</a>
-    - <a href='https://leetcode.com/problems/valid-parentheses/'>Valid Parentheses</a>
     - <a href='https://leetcode.com/problems/valid-palindrome/'>Valid Palindrome</a>
     - <a href='https://leetcode.com/problems/longest-palindromic-substring/'>Longest Palindromic Substring</a>
     - <a href='https://leetcode.com/problems/palindromic-substrings/'>Palindromic Substrings</a>
@@ -85,8 +88,9 @@
     - <a href='https://leetcode.com/problems/design-add-and-search-words-data-structure/'>Add and Search Word</a>
     - <a href='https://leetcode.com/problems/word-search-ii/'>Word Search II</a>
   - Heap:
+    - <a href='https://leetcode.com/problems/kth-largest-element-in-an-array/'>Kth Largest Element in an Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Heap/215.kth-largest-element-in-an-array.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/merge-k-sorted-lists/'>Merge K Sorted Lists</a>
-    - <a href='https://leetcode.com/problems/top-k-frequent-elements/'>Top K Frequent Elements</a>
+    - <a href='https://leetcode.com/problems/top-k-frequent-elements/'>Top K Frequent Elements</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Heap/347.top-k-frequent-elements.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/find-median-from-data-stream/'>Find Median from Data Stream</a>
   - Important Links:
     - <a href='https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed'>14 Patterns to Ace Any Coding Interview Question</a>
