@@ -29,7 +29,7 @@ driver code demo at the bottom).
 - **Dijkstra's Algorithm** — shortest path on a weighted graph, natural
   next step after bredthFirstSearch.py / topologicalSort.py.
 
-## Low priority — real, but not worth the time before Aug 2026
+## Low priority — real, but not worth the time
 
 - Segment Tree / Fenwick Tree (Binary Indexed Tree) — advanced range
   queries, rarely comes up outside specialized roles.
