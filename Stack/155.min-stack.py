@@ -10,6 +10,11 @@ from typing import Union
 class MinStack:
     """
     Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+    
+    NOTE stacks are Last In First Out (LIFO)
+    [], < -- top
+    [],
+    []  < -- bottom
 
     Implement the MinStack class:
 
