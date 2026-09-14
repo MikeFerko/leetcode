@@ -2,22 +2,36 @@
 
 - Sorted:
   - Arrays:
-    - <a href='https://leetcode.com/problems/two-sum/'>Two Sum</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/twoSum.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock/'>Best Time to Buy and Sell Stock</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/bestTimeToBuyAndSellStock.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/contains-duplicate/'>Contains Duplicate</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/containsDuplicate.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/product-of-array-except-self/'>Product of Array Except Self</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/productOfArrayExceptSelf.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/maximum-subarray/'>Maximum Subarray</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/maximumSubarray.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/maximum-product-subarray/'>Maximum Product Subarray</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/maximumProductSubarray.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/'>Find Minimum in Rotated Sorted Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/153.find-minimum-in-rotated-sorted-array.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/search-in-rotated-sorted-array/'>Search in Rotated Sorted Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/33.search-in-rotated-sorted-array.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/3sum/'>3 Sum</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/15.3-sum.py'>Solution</a> ✔
-    - <a href='https://leetcode.com/problems/container-with-most-water/'>Container With Most Water</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Array/11.container-with-most-water.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/two-sum/'>Two Sum</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/twoSum.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/best-time-to-buy-and-sell-stock/'>Best Time to Buy and Sell Stock</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/bestTimeToBuyAndSellStock.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/contains-duplicate/'>Contains Duplicate</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/containsDuplicate.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/product-of-array-except-self/'>Product of Array Except Self</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/productOfArrayExceptSelf.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/maximum-subarray/'>Maximum Subarray</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/maximumSubarray.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/maximum-product-subarray/'>Maximum Product Subarray</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/maximumProductSubarray.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/'>Find Minimum in Rotated Sorted Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/153.find-minimum-in-rotated-sorted-array.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/search-in-rotated-sorted-array/'>Search in Rotated Sorted Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/33.search-in-rotated-sorted-array.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/3sum/'>3 Sum</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/15.3-sum.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/container-with-most-water/'>Container With Most Water</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/11.container-with-most-water.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/find-peak-element/'>Find Peak Element</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/162.find-peak-element.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/'>Two Sum II - Input Array Is Sorted</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/167.two-sum-ii-input-array-is-sorted.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/find-the-highest-altitude/'>Find the Highest Altitude</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/1732.find-the-highest-altitude.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/rotate-array/'>Rotate Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/189.rotate-array.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/first-bad-version/'>First Bad Version</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/278.first-bad-version.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/move-zeroes/'>Move Zeroes</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/283.move-zeroes.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/'>Find First and Last Position of Element in Sorted Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/34.find-first-and-last-position-of-element-in-sorted-array.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/reverse-string/'>Reverse String</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/344.reverse-string.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/search-insert-position/'>Search Insert Position</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/35.search-insert-position.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/reverse-words-in-a-string-iii/'>Reverse Words in a String III</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/557.reverse-words-in-a-string-iii.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/binary-search/'>Binary Search</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/704.binary-search.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/squares-of-a-sorted-array/'>Squares of a Sorted Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/977.squares-of-a-sorted-array.py'>Solution</a> ✔
   - Binary:
     - <a href='https://leetcode.com/problems/sum-of-two-integers/'>Sum of Two Integers</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Binary/371.sum-of-two-integers.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/number-of-1-bits/'>Number of 1 Bits</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Binary/191.number-of-1-bits.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/reverse-bits/'>Reverse Bits</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Binary/190.reverse-bits.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/single-number/'>Single Number</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Binary/136.single-number.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/power-of-two/'>Power of Two</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Binary/231.power-of-two.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/counting-bits/'>Counting Bits</a>
     - <a href='https://leetcode.com/problems/missing-number/'>Missing Number</a>
-    - <a href='https://leetcode.com/problems/reverse-bits/'>Reverse Bits</a>
   - Dynamic Programming:
     - <a href='https://leetcode.com/problems/climbing-stairs/'>Climbing Stairs</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Dynamic%20Programming/70.climbing-stairs.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/coin-change/'>Coin Change</a>
@@ -25,11 +39,12 @@
     - <a href='https://leetcode.com/problems/longest-common-subsequence/'>Longest Common Subsequence</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Dynamic%20Programming/1143.longest-common-subsequence.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/word-break/'>Word Break Problem</a>
     - <a href='https://leetcode.com/problems/combination-sum-iv/'>Combination Sum</a>
-    - <a href='https://leetcode.com/problems/house-robber/'>House Robber</a>
+    - <a href='https://leetcode.com/problems/house-robber/'>House Robber</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Dynamic%20Programming/198.house-robber.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/house-robber-ii/'>House Robber II</a>
     - <a href='https://leetcode.com/problems/decode-ways/'>Decode Ways</a>
     - <a href='https://leetcode.com/problems/unique-paths/'>Unique Paths</a>
     - <a href='https://leetcode.com/problems/jump-game/'>Jump Game</a>
+    - <a href='https://leetcode.com/problems/triangle/'>Triangle</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Dynamic%20Programming/120.triangle.py'>Solution</a> ✔
   - Graph:
     - <a href='https://leetcode.com/problems/clone-graph/'>Clone Graph</a>
     - <a href='https://leetcode.com/problems/course-schedule/'>Course Schedule</a>
@@ -39,32 +54,43 @@
     - <a href='https://leetcode.com/problems/alien-dictionary/'>Alien Dictionary (Leetcode Premium)</a>
     - <a href='https://leetcode.com/problems/graph-valid-tree/'>Graph Valid Tree (Leetcode Premium)</a>
     - <a href='https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/'>Number of Connected Components in an Undirected Graph (Leetcode Premium)</a>
+  - DFS / Backtracking:
+    - <a href='https://leetcode.com/problems/permutations/'>Permutations</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/DFS/46.permutations.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/combinations/'>Combinations</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/DFS/77.combinations.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/letter-case-permutation/'>Letter Case Permutation</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Tree/784.letter-case-permutation.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/01-matrix/'>01 Matrix</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/DFS/542.01-matrix.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/max-area-of-island/'>Max Area of Island</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/DFS/695.max-area-of-island.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/flood-fill/'>Flood Fill</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/DFS/733.flood-fill.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/rotting-oranges/'>Rotting Oranges</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/DFS/994.rotting-oranges.py'>Solution</a> ✔
   - Interval:
-    - <a href='https://leetcode.com/problems/insert-interval/'>Insert Interval</a>
-    - <a href='https://leetcode.com/problems/merge-intervals/'>Merge Intervals</a>
-    - <a href='https://leetcode.com/problems/non-overlapping-intervals/'>Non-overlapping Intervals</a>
+    - <a href='https://leetcode.com/problems/insert-interval/'>Insert Interval</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/57.insert-interval.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/merge-intervals/'>Merge Intervals</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/56.merge-intervals.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/non-overlapping-intervals/'>Non-overlapping Intervals</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/435.non-overlapping-intervals.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/meeting-rooms/'>Meeting Rooms (Leetcode Premium)</a>
     - <a href='https://leetcode.com/problems/meeting-rooms-ii/'>Meeting Rooms II (Leetcode Premium)</a>
   - Linked List:
     - <a href='https://leetcode.com/problems/reverse-linked-list/'>Reverse a Linked List</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Linked%20List/206.reverse-linked-list.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/linked-list-cycle/'>Detect Cycle in a Linked List</a>
-    - <a href='https://leetcode.com/problems/merge-two-sorted-lists/'>Merge Two Sorted Lists</a>
+    - <a href='https://leetcode.com/problems/merge-two-sorted-lists/'>Merge Two Sorted Lists</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Linked%20List/21.merge-two-sorted-lists.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/merge-k-sorted-lists/'>Merge K Sorted Lists</a>
-    - <a href='https://leetcode.com/problems/remove-nth-node-from-end-of-list/'>Remove Nth Node From End Of List</a>
+    - <a href='https://leetcode.com/problems/remove-nth-node-from-end-of-list/'>Remove Nth Node From End Of List</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Linked%20List/19.remove-nth-node-from-end-of-list.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/reorder-list/'>Reorder List</a>
     - <a href='https://leetcode.com/problems/delete-node-in-a-linked-list/'>Delete Node in a Linked List</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Linked%20List/237.delete-node-in-a-linked-list.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/middle-of-the-linked-list/'>Middle of the Linked List</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Linked%20List/876.middle-of-the-linked-list.py'>Solution</a> ✔
   - Matrix:
     - <a href='https://leetcode.com/problems/set-matrix-zeroes/'>Set Matrix Zeroes</a>
     - <a href='https://leetcode.com/problems/spiral-matrix/'>Spiral Matrix</a>
     - <a href='https://leetcode.com/problems/rotate-image/'>Rotate Image</a>
     - <a href='https://leetcode.com/problems/word-search/'>Word Search</a>
+    - <a href='https://leetcode.com/problems/search-a-2d-matrix/'>Search a 2D Matrix</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/74.search-a-2-d-matrix.py'>Solution</a> ✔
   - Stack:
     - <a href='https://leetcode.com/problems/valid-parentheses/'>Valid Parentheses</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Stack/20.valid-parentheses.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/daily-temperatures/'>Daily Temperatures</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Stack/739.daily-temperatures.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/min-stack/'>Min Stack</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Stack/155.min-stack.py'>Solution</a> ✔
   - String:
-    - <a href='https://leetcode.com/problems/longest-substring-without-repeating-characters/'>Longest Substring Without Repeating Characters</a>
-    - <a href='https://leetcode.com/problems/longest-repeating-character-replacement/'>Longest Repeating Character Replacement</a>
+    - <a href='https://leetcode.com/problems/longest-substring-without-repeating-characters/'>Longest Substring Without Repeating Characters</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Hash%20Table/3.longest-substring-without-repeating-characters.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/longest-repeating-character-replacement/'>Longest Repeating Character Replacement</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Hash%20Table/424.longest-repeating-character-replacement.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/permutation-in-string/'>Permutation in String</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Hash%20Table/567.permutation-in-string.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/minimum-window-substring/'>Minimum Window Substring</a>
     - <a href='https://leetcode.com/problems/valid-anagram/'>Valid Anagram</a>
     - <a href='https://leetcode.com/problems/group-anagrams/'>Group Anagrams</a>
@@ -87,10 +113,13 @@
     - <a href='https://leetcode.com/problems/implement-trie-prefix-tree/'>Implement Trie (Prefix Tree)</a>
     - <a href='https://leetcode.com/problems/design-add-and-search-words-data-structure/'>Add and Search Word</a>
     - <a href='https://leetcode.com/problems/word-search-ii/'>Word Search II</a>
+    - <a href='https://leetcode.com/problems/populating-next-right-pointers-in-each-node/'>Populating Next Right Pointers in Each Node</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Tree/116.populating-next-right-pointers-in-each-node.py'>Solution</a> ✔
+    - <a href='https://leetcode.com/problems/merge-two-binary-trees/'>Merge Two Binary Trees</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Tree/617.merge-two-binary-trees.py'>Solution</a> ✔
   - Heap:
     - <a href='https://leetcode.com/problems/kth-largest-element-in-an-array/'>Kth Largest Element in an Array</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Heap/215.kth-largest-element-in-an-array.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/merge-k-sorted-lists/'>Merge K Sorted Lists</a>
     - <a href='https://leetcode.com/problems/top-k-frequent-elements/'>Top K Frequent Elements</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Heap/347.top-k-frequent-elements.py'>Solution</a> ✔
     - <a href='https://leetcode.com/problems/find-median-from-data-stream/'>Find Median from Data Stream</a>
+    - <a href='https://leetcode.com/problems/task-scheduler/'>Task Scheduler</a> : <a href='https://github.com/MikeFerko/leetcode/blob/master/Arrays%20and%20Strings/621.task-scheduler.py'>Solution</a> ✔
   - Important Links:
     - <a href='https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed'>14 Patterns to Ace Any Coding Interview Question</a>
