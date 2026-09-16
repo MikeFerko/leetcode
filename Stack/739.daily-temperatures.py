@@ -15,6 +15,18 @@ class Solution:
         to wait after the ith day to get a warmer temperature. If there is no future
         day for which this is possible, keep answer[i] == 0 instead.
 
+        Algorithm:
+            1. Initialize a stack to keep track of indices of temperatures.
+            2. Initialize an answer array with zeros.
+            3. Iterate through the temperatures:
+                a. While the stack is not empty and the current temperature is greater
+                   than the temperature at the index stored at the top of the stack:
+                    i. Pop the index from the stack.
+                    ii. Calculate the difference between the current index and the popped index,
+                        and store it in the answer array at the popped index.
+                b. Push the current index onto the stack.
+            4. Return the answer array.
+
         Args:
             temperatures (List[int]): array of daily temperatures
 
