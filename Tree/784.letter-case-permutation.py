@@ -4,9 +4,9 @@
 # [784] Letter Case Permutation
 #
 
+# @lc code=start
 from typing import List
 
-# @lc code=start
 class Solution:
     def letterCasePermutation(self, s: str) -> List[str]:
         '''
@@ -29,7 +29,6 @@ class Solution:
         space S(n) = O(n2^n)
 
         '''
-        s = [char for char in s]
         perms = [""]
         n = len(s)
         i = 1
