@@ -3,6 +3,7 @@ from typing import List
 from math import floor
 
 class Search:
+    @staticmethod
     def binarySearch(A : List[int], l : int, r : int, x : int) -> int:
         '''
         Algorithm from intro to Algorithms 3rd Ed.
